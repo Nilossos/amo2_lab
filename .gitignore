@@ -17,6 +17,9 @@ build/
 # Data (если не хотите коммитить сгенерированные данные)
 data/
 
+# Models
+models/
+
 # IDE
 .idea/
 .vscode/
